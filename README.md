@@ -1,15 +1,6 @@
+#[Responsive CSS Grid Framework](https://rawgit.com/beck410/responsive-grid-framework/master/example.html)
+ custom grid based off [960 Grid System](http://960.gs/)
 
-
-------- RESPONSIVE GRID FRAMEWORK ---------
-
-- custom grid based off 960 Grid System http://960.gs/
-- stripped for custom purposes
-
-
-TO VIEW:
-https://rawgit.com/beck410/responsive-grid-framework/master/example.html
-
-To Do:
+##WIP
 - fix padding on second div in each row after breakpoint
 - add push and pull examples 
-- 
